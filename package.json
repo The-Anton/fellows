@@ -4,6 +4,7 @@
     "workspaces": [
         "packages/*"
     ],
+
     "scripts": {
         "postinstall": "husky install",
         "prepare": "husky install"
